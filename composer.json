@@ -1,0 +1,15 @@
+{
+  "name": "rapiddive/composer-version-constraint",
+  "description": "composer version constraint",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "vinay",
+      "email": "vinay.sudhir@gmail.com"
+    }
+  ],
+  "require": {
+    "composer/composer": "*"
+  }
+}
