@@ -22,6 +22,10 @@ git clone git@github.com:rapiddive/composer-version-constraint.git
     ...
 }
 ```
+## Dump autoload
+```shell script
+composer dumpautoload
+```
 
 ## Install any package causing issue with following command
 ```shell script
